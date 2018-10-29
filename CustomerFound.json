@@ -1,0 +1,14 @@
+"responses": [
+{
+"inject": "<%-stringify(filename, 'ResponseInjection//CustomerFound.js') %>"
+}
+ 
+],
+"predicates": [
+{
+"matches": {
+"method" : "POST",
+"path" : "/Apitesting/CustomerView"
+}
+}
+]

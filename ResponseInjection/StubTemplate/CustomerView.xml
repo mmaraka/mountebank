@@ -1,0 +1,8 @@
+<customers>
+   <customer>
+     <FirstName>Mahendra</FirstName>
+     <LastName>Citizen</LastName>
+     <Address>Some St, Some State, Some Country</Address>
+     <Email>Test@test.com</Email>
+   </customer>
+</customers>
